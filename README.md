@@ -5,14 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=koushik8686&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile views" />
 </p>
 
-👨‍💻 My portfolio: [https://koushik8686.github.io/Portfolio/](https://koushik8686.github.io/Portfolio/)
-
-📫 Reach me at pinnukoushik1@gmail.com
-
+👨‍💻 My portfolio: [https://koushik8686.github.io/Portfolio/](https://koushik8686.github.io/Portfolio/)  
+📫 Reach me at pinnukoushik1@gmail.com  
 📄 Know about my journey: [My Resume](#)
 
 <h3 align="center">🚀 Languages and Tools:</h3>
-<p align="center">
+
+<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -78,7 +77,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=koushik8686&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=koushik8686&theme=tokyonight" alt="GitHub Streak" />
 </p>
