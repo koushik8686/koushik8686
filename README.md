@@ -68,7 +68,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-neon-iota.vercel.app/api/?username=koushik8686&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-neon-iota.vercel.app/api/?username=koushik866&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats-neon-iota.vercel.app/?user=koushik8686&theme=tokyonight" alt="GitHub Streak" />
